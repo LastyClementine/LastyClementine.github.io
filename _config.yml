@@ -145,4 +145,4 @@ baidu_analytics: 2c3dd33024e468b1ef6e1c1b140d1625
 # Custom CSS style
 # personal_style: /css/forsigner.css
 
-theme: jekyll-theme-minimal
+theme: fexo
